@@ -8,7 +8,7 @@
 body {
     background-color: var(--bg-dark-grey);
     color: var(--text-white);
-    line-height:
+    line-height: 1;
 }
 header {
     display: flex;
